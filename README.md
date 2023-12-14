@@ -23,6 +23,7 @@ The Telangana Tourism Dashboard provides a comprehensive view of the tourism ind
 ![dashboard demo (2)](https://github.com/kuchbhiarnav/2-Telangana-Tourism-Dashboard/assets/77193445/6759b2ff-7e05-4e5b-bdc4-04ec8ca9295f)
 
 ### YouTube link for the Presentation
+https://youtu.be/lXnLbiZe3tM
 
 ## Credits
 The dataset is taken from Open Data Telangana. Thanks to Telangana Government for providing real-time datasets for public access which is a great learning asset - feel free to explore them here. (https://data.telangana.gov.in/). 
